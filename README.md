@@ -15,7 +15,7 @@ Instrucciones de ejecución.
 
 Integrantes
 
-Felipe Valenzuela Hernández
-Herman Barraza Barragán
+Felipe Valenzuela Hernández.
+Herman Barraza Barragán.
 
   
