@@ -13,4 +13,9 @@ Instrucciones de ejecución.
 
     Una vez hecho esto se pueden hacer las consultas ingresandolas en el string my_queries.
 
+Integrantes
+
+Felipe Valenzuela Hernández
+Herman Barraza Barragán
+
   
